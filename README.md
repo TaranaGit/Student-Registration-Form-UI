@@ -1,6 +1,7 @@
-# 📝 Student Registration Form
+## 📝 Student Registration Form
 
-A responsive and dynamic student registration form built with React, TypeScript, Vite, Tailwind CSS, and React Bootstrap. This application allows students register new students and view the submitted details instantly.
+A responsive and dynamic student registration form built using modern web development tools and practices. The form allows users to input student details such as name, age, and grade level, and displays the entered information dynamically upon submission.
+
 ---
 ## 🌟 Features
 
@@ -11,7 +12,11 @@ A responsive and dynamic student registration form built with React, TypeScript,
 - **Responsive Design:** Styled with Tailwind CSS and React Bootstrap for a clean and responsive UI.
 - **Modern Tooling:** Built using Vite for fast development and optimized builds.
 ---
+## Prerequisites
+Make sure you have the following installed:
 
+- Node.js (v14 or higher)
+- npm (v6 or higher)
 ## 📦 Installation
 
 1. **Clone the Repository**
@@ -19,15 +24,15 @@ A responsive and dynamic student registration form built with React, TypeScript,
    ```bash
    git clone git@github.com:TaranaGit/Student-Registration-Form-UI.git
    ```
-2.  **Navigate to the project directory:**
+2.  **Navigate to the project directory**
     ```bash
      cd Student-Registration-Form-UI
     ```
-3. Install dependencies:
+3. **Install dependencies**
     ```bash
     npm install
     ```
-4. Start the application:
+4. **Start the application**
     ```bash
     npm run dev 
     ```       
